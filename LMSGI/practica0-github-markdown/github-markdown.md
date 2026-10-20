@@ -1,14 +1,16 @@
 # Pràctica 1: Característiques dels llenguatges de marques
 ## Descripció
 
+>[!NOTE]
+>Objectiu: Aprofundir i posar en pràctica els coneixements adquirits sobre l'ús i les característiques principals dels llenguatges de marques.
 
-Objectiu: Aprofundir i posar en pràctica els coneixements adquirits sobre l'ús i les característiques principals dels llenguatges de marques.
+>[!IMPORTANT]
+>Desenvolupament: En parelles.
+
+>[!TIP]
+>Lliurament: A través del Moodle en format presentació (odt, ppt, pptx o pdf).
 
 
-Desenvolupament: En parelles.
-
-
-Lliurament: A través del Moodle en format presentació (odt, ppt, pptx o pdf).
 ## Enunciat
 
 L’objectiu d’aquest exercici és aprofundir en els conceptes relacionats amb les característiques inherents als llenguatges de marques mitjançant la creació d’un llenguatge propi, heu de tenir en compte que, per a poder classificar la vostra creació com a llenguatge de marques, s’han de complir una sèrie de requisits:
